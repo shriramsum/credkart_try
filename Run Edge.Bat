@@ -1,0 +1,1 @@
+pytest "C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart" -v -s --html=HTMLReports/EdgeReport.html --browser edge  

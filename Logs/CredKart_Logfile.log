@@ -1,0 +1,122 @@
+2024-01-09 08:06:40,925 : INFO : utilities.Logger : test_UserRegistration_001 : test_UserRegistration_001 is started
+2024-01-09 08:06:40,925 : INFO : utilities.Logger : test_UserRegistration_001 :  Opening Browser
+2024-01-09 08:06:43,782 : INFO : utilities.Logger : test_UserRegistration_001 : Going to Url-->https://automation.credence.in/register
+2024-01-09 08:06:43,903 : INFO : utilities.Logger : test_UserRegistration_001 : Entering the name
+2024-01-09 08:06:44,098 : INFO : utilities.Logger : test_UserRegistration_001 : Entering the Email-->mmch@gmail.com
+2024-01-09 08:06:44,555 : INFO : utilities.Logger : test_UserRegistration_001 : Entering the password
+2024-01-09 08:06:44,726 : INFO : utilities.Logger : test_UserRegistration_001 : Entering the confirm password
+2024-01-09 08:06:46,711 : INFO : utilities.Logger : test_UserRegistration_001 : Clicking on Register Button
+2024-01-09 08:06:46,779 : INFO : utilities.Logger : test_UserRegistration_001 : test_UserRegistration_001 is pass
+2024-01-09 08:06:47,269 : INFO : utilities.Logger : test_UserRegistration_001 : test_UserRegistration_001 is completed
+2024-01-09 08:08:57,858 : INFO : utilities.Logger : test_UserRegistration_001 : test_UserRegistration_001 is started
+2024-01-09 08:08:57,858 : INFO : utilities.Logger : test_UserRegistration_001 :  Opening Browser
+2024-01-09 08:08:59,910 : INFO : utilities.Logger : test_UserRegistration_001 : Going to Url-->https://automation.credence.in/register
+2024-01-09 08:09:00,556 : INFO : utilities.Logger : test_UserRegistration_001 : Entering the name
+2024-01-09 08:09:00,771 : INFO : utilities.Logger : test_UserRegistration_001 : Entering the Email-->zzpd@gmail.com
+2024-01-09 08:09:01,324 : INFO : utilities.Logger : test_UserRegistration_001 : Entering the password
+2024-01-09 08:09:01,447 : INFO : utilities.Logger : test_UserRegistration_001 : Entering the confirm password
+2024-01-09 08:09:03,251 : INFO : utilities.Logger : test_UserRegistration_001 : Clicking on Register Button
+2024-01-09 08:09:03,291 : INFO : utilities.Logger : test_UserRegistration_001 : test_UserRegistration_001 is pass
+2024-01-09 08:09:03,760 : INFO : utilities.Logger : test_UserRegistration_001 : test_UserRegistration_001 is completed
+2024-01-09 08:12:26,275 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : test_UserRegistration_001 is started
+2024-01-09 08:12:26,276 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 :  Opening Browser
+2024-01-09 08:12:29,615 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : Going to Url-->https://automation.credence.in/register
+2024-01-09 08:12:29,911 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : Entering the name
+2024-01-09 08:12:30,511 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : Entering the Email-->thig@outlook.com
+2024-01-09 08:12:30,812 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : Entering the password
+2024-01-09 08:12:31,006 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : Entering the confirm password
+2024-01-09 08:12:32,571 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : Clicking on Register Button
+2024-01-09 08:12:32,601 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : test_UserRegistration_001 is pass
+2024-01-09 08:12:32,989 : INFO : C:\Users\HP\Desktop\Python revision Jan 24\Pytest_Credkart - Copy\testCases\test_UserProfile.py : test_UserRegistration_001 : test_UserRegistration_001 is completed
+
+
+2024-01-09 08:13:13,479 : INFO : Test_User_Profile : test_UserRegistration_001 : test_UserRegistration_001 is started
+2024-01-09 08:13:13,480 : INFO : Test_User_Profile : test_UserRegistration_001 :  Opening Browser
+2024-01-09 08:13:16,941 : INFO : Test_User_Profile : test_UserRegistration_001 : Going to Url-->https://automation.credence.in/register
+2024-01-09 08:13:17,063 : INFO : Test_User_Profile : test_UserRegistration_001 : Entering the name
+2024-01-09 08:13:17,259 : INFO : Test_User_Profile : test_UserRegistration_001 : Entering the Email-->txon@gmail.com
+2024-01-09 08:13:17,357 : INFO : Test_User_Profile : test_UserRegistration_001 : Entering the password
+2024-01-09 08:13:17,460 : INFO : Test_User_Profile : test_UserRegistration_001 : Entering the confirm password
+2024-01-09 08:13:18,839 : INFO : Test_User_Profile : test_UserRegistration_001 : Clicking on Register Button
+2024-01-09 08:13:18,853 : INFO : Test_User_Profile : test_UserRegistration_001 : test_UserRegistration_001 is pass
+2024-01-09 08:13:19,508 : INFO : Test_User_Profile : test_UserRegistration_001 : test_UserRegistration_001 is completed
+2024-01-09 08:15:57,864 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2024-01-09 08:15:57,864 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2024-01-09 08:15:58,581 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2024-01-09 08:15:58,689 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2024-01-09 08:15:58,877 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->cfzr@outlook.com
+2024-01-09 08:15:58,987 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2024-01-09 08:15:59,104 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2024-01-09 08:16:00,494 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2024-01-09 08:16:00,507 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2024-01-09 08:16:00,623 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
+2024-01-10 08:07:26,361 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2024-01-10 08:07:26,436 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2024-01-10 08:07:34,952 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2024-01-10 08:07:37,024 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2024-01-10 08:07:37,560 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->ljnt@ymail.com
+2024-01-10 08:07:42,349 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2024-01-10 08:07:42,560 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2024-01-10 08:07:44,717 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2024-01-10 08:07:44,786 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2024-01-10 08:07:45,333 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
+2024-01-10 08:40:00,902 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2024-01-10 08:40:00,903 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2024-01-10 08:40:01,988 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2024-01-10 08:40:02,459 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2024-01-10 08:40:02,988 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->ocpq@gmail.com
+2024-01-10 08:40:03,207 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2024-01-10 08:40:03,657 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2024-01-10 08:40:05,414 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2024-01-10 08:40:05,595 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2024-01-10 08:40:05,762 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
+2024-01-10 08:48:01,912 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2024-01-10 08:48:01,913 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2024-01-10 08:48:02,365 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2024-01-10 08:48:02,956 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2024-01-10 08:48:03,321 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->huec@outlook.com
+2024-01-10 08:48:03,531 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2024-01-10 08:48:03,801 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2024-01-10 08:48:05,337 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2024-01-10 08:48:05,380 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2024-01-10 08:48:05,660 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
+2024-01-10 08:51:58,895 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2024-01-10 08:51:58,896 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2024-01-10 08:51:59,793 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2024-01-10 08:51:59,910 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2024-01-10 08:52:00,313 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->lnrx@ymail.com
+2024-01-10 08:52:00,475 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2024-01-10 08:52:00,963 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2024-01-10 08:52:02,622 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2024-01-10 08:52:02,674 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2024-01-10 08:52:02,951 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
+2024-01-10 08:53:21,592 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2024-01-10 08:53:21,592 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2024-01-10 08:53:22,036 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2024-01-10 08:53:22,725 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2024-01-10 08:53:22,946 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->xawv@outlook.com
+2024-01-10 08:53:23,201 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2024-01-10 08:53:23,293 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2024-01-10 08:53:24,573 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2024-01-10 08:53:24,607 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2024-01-10 08:53:24,784 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
+2024-01-10 08:56:35,267 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2024-01-10 08:56:35,267 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2024-01-10 08:56:38,231 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2024-01-10 08:56:39,773 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2024-01-10 08:56:39,984 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->jrfk@outlook.com
+2024-01-10 08:56:40,515 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2024-01-10 08:56:40,694 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2024-01-10 08:56:42,648 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2024-01-10 08:56:42,700 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2024-01-10 08:56:43,078 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
+2024-01-10 08:58:49,614 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is started
+2024-01-10 08:58:49,615 - INFO - Test_User_Profile - test_UserRegistration_001 -  Opening Browser
+2024-01-10 08:58:50,296 - INFO - Test_User_Profile - test_UserRegistration_001 - Going to Url-->https://automation.credence.in/register
+2024-01-10 08:58:51,232 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the name
+2024-01-10 08:58:51,655 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the Email-->tjqt@gmail.com
+2024-01-10 08:58:51,893 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the password
+2024-01-10 08:58:52,614 - INFO - Test_User_Profile - test_UserRegistration_001 - Entering the confirm password
+2024-01-10 08:58:54,997 - INFO - Test_User_Profile - test_UserRegistration_001 - Clicking on Register Button
+2024-01-10 08:58:55,037 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is pass
+2024-01-10 08:58:55,224 - INFO - Test_User_Profile - test_UserRegistration_001 - test_UserRegistration_001 is completed
